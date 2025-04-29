@@ -1,0 +1,19 @@
+[
+  {
+    "teacher": "teacherA",
+    "group": "G1",
+    "students": [
+      { "name": "Ahmed" },
+      { "name": "Sara" },
+      { "name": "Mohamed" }
+    ]
+  },
+  {
+    "teacher": "teacherB",
+    "group": "G2",
+    "students": [
+      { "name": "Karim" },
+      { "name": "Nora" }
+    ]
+  }
+]
