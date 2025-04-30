@@ -1,19 +1,65 @@
 [
   {
-    "teacher": "teacherA",
-    "group": "G1",
-    "students": [
-      { "name": "Ahmed" },
-      { "name": "Sara" },
-      { "name": "Mohamed" }
-    ]
+    "id_module": "2138",
+    "Nom_module": "Interface Homme Machine",
+    "nom_module_ar": "واجهة آلة الإنسان",
+    "abrev_fr": "IHM",
+    "abrev_ar": "و أ ب",
+    "Coefficient": "3",
+    "Credit": "5"
   },
   {
-    "teacher": "teacherB",
-    "group": "G2",
-    "students": [
-      { "name": "Karim" },
-      { "name": "Nora" }
-    ]
+    "id_module": "2140",
+    "Nom_module": "Génie logiciel",
+    "nom_module_ar": "هندسة البرامج",
+    "abrev_fr": "GL",
+    "abrev_ar": "هندسة البرمجيات",
+    "Coefficient": "3",
+    "Credit": "5"
+  },
+  {
+    "id_module": "2143",
+    "Nom_module": "Compilation",
+    "nom_module_ar": "التجميع",
+    "abrev_fr": "Compilation",
+    "abrev_ar": "ت ب",
+    "Coefficient": "3",
+    "Credit": "5"
+  },
+  {
+    "id_module": "2146",
+    "Nom_module": "Système d'exploitation 2",
+    "nom_module_ar": "أنظمة التشغيل 2",
+    "abrev_fr": "SE 2",
+    "abrev_ar": "نظم التشغيل",
+    "Coefficient": "3",
+    "Credit": "5"
+  },
+  {
+    "id_module": "2135",
+    "Nom_module": "Programmation linéaire",
+    "nom_module_ar": "البرمجة الخطية",
+    "abrev_fr": "PL",
+    "abrev_ar": "البرمجة الخطية",
+    "Coefficient": "2",
+    "Credit": "4"
+  },
+  {
+    "id_module": "2137",
+    "Nom_module": "Probabilités et statistiques",
+    "nom_module_ar": "احتمالات و إحصاء",
+    "abrev_fr": "Proba",
+    "abrev_ar": "احتمالات",
+    "Coefficient": "2",
+    "Credit": "4"
+  },
+  {
+    "id_module": "2141",
+    "Nom_module": "Economie numérique et veille stratégique",
+    "nom_module_ar": "الاقتصاد الرقمي و الحماية الاستراتيجية",
+    "abrev_fr": "Eco-Num",
+    "abrev_ar": "اقتصاد",
+    "Coefficient": "1",
+    "Credit": "2"
   }
 ]
